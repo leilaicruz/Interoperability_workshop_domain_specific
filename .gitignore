@@ -1,0 +1,41 @@
+## Ignore environments
+
+netcdf_python/
+References/
+Lesson_development/Presentations 
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore NetCDF files (if you want to exclude them)
+*.nc
+
+# Ignore other data files (optional, adjust as needed)
+*.csv
+*.h5
+*.json
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore environment files
+.env
+*.env

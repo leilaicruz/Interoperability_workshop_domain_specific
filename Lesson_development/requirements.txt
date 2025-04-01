@@ -1,0 +1,5 @@
+xarray 
+cf_xarray 
+jupyter 
+ipykernel 
+netcdf4 
