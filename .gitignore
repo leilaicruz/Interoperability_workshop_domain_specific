@@ -3,6 +3,7 @@
 netcdf_python/
 References/
 Lesson_development/Presentations 
+Publishing/workshop_template.md
 
 # Ignore Python cache files
 __pycache__/

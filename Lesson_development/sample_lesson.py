@@ -1,5 +1,3 @@
-
-
 import xarray as xr 
 
 netcdf_file="https://opendap.4tu.nl/thredds/dodsC/IDRA/2019/01/01/IDRA_2019-01-01_00-00_raw_data.nc" # this is an example of a netcdf dataset that is well documented, in the sense that it contains metadata for the convention used.
