@@ -43,3 +43,7 @@ print(xrds.coords['time'].values)
 ## Look at the coordinate variables attributes
 
 print(xrds.coords['time'].attrs) 
+
+### Add and edit metadata attributes following CF conventions 
+
+### Check and validate the the CF convention using a website like this one: https://compliance.ioos.us/index.html
