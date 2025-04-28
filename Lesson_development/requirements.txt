@@ -1,6 +1,0 @@
-xarray 
-cf_xarray 
-jupyter 
-ipykernel 
-netcdf4 
-jupyterlab

@@ -5,6 +5,7 @@ References/
 Lesson_development/Presentations 
 Publishing/workshop_template.md
 Metadata/
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]

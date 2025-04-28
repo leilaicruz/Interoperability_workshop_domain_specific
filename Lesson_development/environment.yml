@@ -1,0 +1,14 @@
+name: netcdf_python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - h5py
+  - cftime
+  - matplotlib
+  - jupyterlab
+  - scipy
+  - pandas
