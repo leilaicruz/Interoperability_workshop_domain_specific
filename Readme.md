@@ -2,7 +2,7 @@
 
 - set up a Virtual python environment using conda (more recommended than pip for this case)
 
-`conda env create -f Lesson_development/environment.yml `
+`conda env create -f environment.yml `
 
 `conda activate netcdf_python`
 
