@@ -13,14 +13,17 @@
 
 ## After activation
 
-`python --version`
-# Should say 3.12.x
+`python --version` 
+
+Should say 3.12.x
 
 `conda list netcdf4`
-# Should list netcdf4 installed
+
+Should list netcdf4 installed
 
 `ncdump -h https://opendap.4tu.nl/thredds/dodsC/IDRA/2019/01/01/IDRA_2019-01-01_00-00_raw_data.nc`
-# Should succeed
+
+Should succeed
 
 # Set up a Binder notebook for participants. 
 
