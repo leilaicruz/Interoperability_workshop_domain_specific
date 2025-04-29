@@ -23,3 +23,10 @@
 # Should succeed
 
 # Set up a Binder notebook for participants. 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/Interoperability_workshop_domain_specific/HEAD?labpath=participants_live_code.ipynb)
+
+
+
+Go to Binder notebook [here](https://mybinder.org/v2/gh/leilaicruz/Interoperability_workshop_domain_specific/ef45d7c58253be63a43dd08a7f18135c83a30965?urlpath=lab%2Ftree%2Fparticipants_live_code.ipynb)
