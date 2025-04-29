@@ -24,9 +24,8 @@
 
 # Set up a Binder notebook for participants. 
 
-[![Binder old](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/Interoperability_workshop_domain_specific/HEAD?urlpath=%2Fdoc%2Ftree%2Fparticipants_live_code.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/Interoperability_workshop_domain_specific/HEAD?labpath=doc/participants_live_code.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/Interoperability_workshop_domain_specific/HEAD?labpath=participants_live_code.ipynb)
 
 
 
