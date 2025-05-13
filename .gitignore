@@ -3,8 +3,10 @@
 
 References/
 Lesson_development/Presentations 
+Lesson_development/*.md
 Publishing/workshop_template.md
 Metadata/
+Publishing/
 
 # Ignore Python cache files
 __pycache__/

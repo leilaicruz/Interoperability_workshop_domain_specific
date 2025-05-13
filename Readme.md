@@ -25,7 +25,8 @@ Should list netcdf4 installed
 
 Should succeed
 
-# Set up a Binder notebook for participants. 
+
+# Computational environment for participants. 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/Interoperability_workshop_domain_specific/HEAD?urlpath=%2Fdoc%2Ftree%2Fparticipants_live_code.ipynb)
